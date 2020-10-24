@@ -1,4 +1,39 @@
 body {
-    background-image: url('2020-Koenigsegg-Jesko-002-1080.jpg');
+    background-image: url('2020-Koenigsegg-Jesko-007-2160.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
+#nav-bar {
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+
+li a {
+    display:inline-block;
+    padding:10px;
+}
+
+li {
+    display:inline; 
+}
+
+#title {
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer {
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: white;
+}
+
+#contact-page-link {
+    color: white;
+}
