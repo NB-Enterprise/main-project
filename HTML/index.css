@@ -4,21 +4,6 @@ body {
     background-size: cover;
 }
 
-#nav-bar {
-    list-style:none;
-    margin:0;
-    padding:0;
-    text-align:center;
-}
-
-li a {
-    display:inline-block;
-    padding:10px;
-}
-
-li {
-    display:inline; 
-}
 
 #title {
     text-align: center;
