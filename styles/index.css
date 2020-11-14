@@ -16,6 +16,7 @@ html {
 	position: relative;
 	background-color: #333;
 	overflow: hidden;
+	bottom: 85px;
 }
 
 .top-nav a {
